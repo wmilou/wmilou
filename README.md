@@ -1,16 +1,14 @@
-### Hi there 👋
+- 🔭 I’m currently working on WVim and Texes Linux
 
-<!--
-**wmilou/wmilou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Node, Flutter and Linux
 
-Here are some ideas to get you started:
+- 🤔 I’m looking for help with Texes Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+
+  - Check out my [GitHub](\https://github.com/wmilou/)
+  - My Email : wedsleyfernando@gmail.com
+
+🗒️ Updates and Notes
+
+- If you HAVE to use VSCode, use [VSCodium](https://vscodium.com/)
