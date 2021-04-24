@@ -20,6 +20,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+![](https://visitor-badge.glitch.me/badge?page_id=wmilou.wmilou)
+
 - 🔭 I’m currently working on WVim and Texes Linux
 
 - 🌱 I’m currently learning Node, Flutter and Linux
@@ -30,6 +32,9 @@
 
   - Check out my [GitHub](\https://github.com/wmilou/)
   - My Email : wedsleyfernando@gmail.com
+
+<br />
+<hr>
 
 🗒️ Updates and Notes
 
