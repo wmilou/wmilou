@@ -43,3 +43,7 @@
 🗒️ Updates and Notes
 
 - If you HAVE to use VSCode, use [VSCodium](https://vscodium.com/)
+
+
+  ![Snake animation](https://github.com/wmilou/wmilou/blob/output/github-contribution-grid-snake.svg)
+ 
