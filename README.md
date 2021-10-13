@@ -49,3 +49,8 @@
 
   ![Snake animation](https://github.com/wmilou/wmilou/blob/output/github-contribution-grid-snake.svg)
  
+  
+  
+# Songs
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01&width=1000)
+
