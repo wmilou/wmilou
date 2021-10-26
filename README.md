@@ -40,7 +40,7 @@
 - 📫 How to reach me:
 
   - Check out my [GitHub](\https://github.com/wmilou/)
-  - My Email : wedsleyfernando@gmail.com
+  - My Email : wedsley@milouchine.com.br
 
 <br />
 <hr>
