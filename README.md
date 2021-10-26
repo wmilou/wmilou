@@ -1,5 +1,6 @@
 ## Hi, i'm Wedsley Milouchine
 
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <div>
   <a href="https://github.com/wmilou">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wmilou&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -24,6 +25,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
   
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/wmilou/wmilou/main/coder.gif?raw=true" width="500" height="320" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wmilou.wmilou)
